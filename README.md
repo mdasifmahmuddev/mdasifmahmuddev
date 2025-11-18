@@ -52,9 +52,7 @@ I’m a Frontend Developer passionate about building clean, responsive websites 
 ![mdasifmahmuddev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdasifmahmuddev&theme=prussian&hide_border=true)
 ![mdasifmahmuddev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasifmahmuddev&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
- ---
 
-## GitHub Commits
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdasifmahmuddev&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
