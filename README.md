@@ -46,7 +46,14 @@ I’m a Frontend Developer passionate about building clean, responsive websites 
 
 ---
 
- 
+## GitHub Statistics
+
+
+
+![mdasifmahmuddev's Stats](https://github-readme-stats.vercel.app/api?username=mdasifmahmuddev&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![mdasifmahmuddev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasifmahmuddev&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
+ ---
 
 ## Connect With Me
 
