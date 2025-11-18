@@ -40,8 +40,8 @@ I’m a Frontend Developer passionate about building clean, responsive websites 
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
-| **Mind-Canva** | Digital art platform where artists upload, showcase, and sell their work. Features user authentication, artwork management, search and filtering, favorites collection, and dark mode support. | React, Firebase, Tailwind CSS, DaisyUI, Node.js, MongoDB | [Live](https://mind-canva.netlify.app) [Code](https://github.com/mdasifmahmuddev/mind-canva) |
-| **ToyTopia** | E-commerce platform for children's toys with local seller integration. Browse toys, check reviews, update profiles, reset passwords, and find local toy stores nearby. | React, Firebase, Tailwind CSS, DaisyUI, React Router, Swiper | [Live](https://toytopia-bd.netlify.app) [Code](https://github.com/mdasifmahmuddev/toytopia) |
+| **Mind-Canva** | Digital art platform where artists upload, showcase, and sell their work. Features user authentication, artwork management, search and filtering, favorites collection, and dark mode support. | React, Firebase, Tailwind CSS, DaisyUI, Node.js, MongoDB | [Live](https://mind-canva.web.app) [Code](https://github.com/mdasifmahmuddev/mindCanva-Client) |
+| **ToyTopia** | E-commerce platform for children's toys with local seller integration. Browse toys, check reviews, update profiles, reset passwords, and find local toy stores nearby. | React, Firebase, Tailwind CSS, DaisyUI, React Router, Swiper | [Live](https://toytopia-bd.netlify.app) [Code](https://github.com/mdasifmahmuddev/ToyTopia) |
 | **Hero IO** | AI app store platform where users browse, search, install trending applications with ratings and reviews. Features app installation, sorting, rating charts, and responsive design. | React, React Router, Tailwind CSS, DaisyUI, Lucide React, LocalStorage | [Live](https://ai-app-ph.netlify.app) [Code](https://github.com/mdasifmahmuddev/Hero-Io) |
 
 ---
